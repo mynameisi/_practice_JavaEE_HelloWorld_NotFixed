@@ -12,8 +12,10 @@
 2. Tomcat类库陈旧
 3. Server Runtime陈旧
 4. DD(Web.xml)有错误
+5. 中文显示乱码
 ===================================
-解决这些错误，我们对于Eclipse的Servlet的相关操作
+解决这些错误，我们在Eclipse中的
+Servlet的相关操作能力
 就会得到一个很好的锻炼。
 
 Have Fun :)
