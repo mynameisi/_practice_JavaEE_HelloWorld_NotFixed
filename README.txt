@@ -1,9 +1,23 @@
 ===================================
-COMP9321 Code Sample: HelloWorld
+问题多多的Servelt HelloWorld项目
 ===================================
 
-Description: Simple web application that shows takes in a name parameter and displays it with a greeting randomly drawn from a list. Demonstrates Servlet use and use of Filters.
+如果能够正常的载入，并配置
+该项目运行的效果是:
+在输入框中输入X，点击按钮，就会返回一个网页内容是:Hello X!
+而且Hello会随着每一次点击，随机不同国家的语言
+===================================
+但是这个项目刚载入以后可能会有如下问题:
+1. JRE陈旧
+2. Tomcat类库陈旧
+3. Server Runtime陈旧
+4. DD(Web.xml)有错误
+===================================
+解决这些错误，我们对于Eclipse的Servlet的相关操作
+就会得到一个很好的锻炼。
 
-Files:
-src/ - Source files
-.war - the war file for deploying in Tomcat
+Have Fun :)
+
+
+
+p.s. 答案就在项目中
